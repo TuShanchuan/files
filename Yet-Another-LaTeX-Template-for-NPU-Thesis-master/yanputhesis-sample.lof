@@ -1,0 +1,28 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\setcounter {tocdepth}{1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1-1}{\ignorespaces 本文主要工作概览图\relax }}{7}{figure.caption.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces 不同异常类型示例\relax }}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces 图像异常检测的具体应用\relax }}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces 胶囊类别图像异常检测\relax }}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces 自编码器\relax }}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {2-5}{\ignorespaces 卷积神经网络结构\relax }}{13}{figure.caption.14}%
+\contentsline {figure}{\numberline {2-6}{\ignorespaces 卷积层特征提取过程示例\relax }}{14}{figure.caption.15}%
+\contentsline {figure}{\numberline {2-7}{\ignorespaces 三种类型池化示例\relax }}{15}{figure.caption.16}%
+\contentsline {figure}{\numberline {2-8}{\ignorespaces 残差模块示例\relax }}{16}{figure.caption.17}%
+\contentsline {figure}{\numberline {2-9}{\ignorespaces 不同ResNet模型结构\relax }}{16}{figure.caption.18}%
+\contentsline {figure}{\numberline {2-10}{\ignorespaces 空间注意力机制\relax }}{17}{figure.caption.19}%
+\contentsline {figure}{\numberline {2-11}{\ignorespaces MVTec AD数据集中的正常图像、异常图像以及对应的真实掩码标签\relax }}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {2-12}{\ignorespaces ROC曲线示例\relax }}{20}{figure.caption.21}%
+\contentsline {figure}{\numberline {2-13}{\ignorespaces PRO曲线示例\relax }}{21}{figure.caption.22}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces 这里是个普通的标题 \relax }}{27}{figure.caption.25}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces 这里是另一个普通的标题\relax }}{28}{figure.caption.26}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces \relax }}{28}{figure.caption.27}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 
+\contentsfinish 
